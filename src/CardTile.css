@@ -1,0 +1,18 @@
+.tileDiv{
+	text-align: center;
+	border: 2px solid black;
+	width: 200px;
+	height: 300px;
+	line-height: 2em;
+	margin: 20px;
+}
+
+/* .tileDiv:hover{
+	transform: translateY(-20px);
+	transition: all 800ms ease;
+} */
+
+.image {
+	height: 100px;
+	width: 100px;
+}
