@@ -4,8 +4,6 @@ import './App.css';
 import CardTile from './CardTile';
 function App(props) {
 
-	const LudhianaURL = "https://api.openweathermap.org/data/2.5/weather?q={Ludhiana},CA&appid={5bd8f8ab57ad59dfd4f93cfa9fe52213}";
-
 	return (
 		<div className="mainDiv">
 			<div className="TextDiv">
